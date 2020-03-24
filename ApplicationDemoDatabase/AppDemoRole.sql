@@ -1,0 +1,3 @@
+﻿CREATE ROLE AppDemoRole
+GO
+ALTER ROLE AppDemoRole ADD MEMBER ap_demo
